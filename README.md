@@ -1,19 +1,31 @@
 <h1 align="center">Hi 👋, I'm Chiev Lyeng</h1>
-<h3 align="center">Dedicated software engineer with an experience in building scalable, efficient, and maintainable software solutions. Skilled in backend development with expertise in designing APIs, database architecture, and cloud-based infrastructures. Adept at problem-solving, collaborating across teams, and leveraging modern tools and frameworks to deliver impactful solutions. Passionate about continuous learning and contributing to the development of innovative technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChievLyeng&label=Profile%20views&color=0e75b6&style=flat" alt="ChievLyeng" /> </p>
+<p align="center"><b>Software Engineer · Backend · Cloud &amp; DevOps</b></p>
 
-- 💬 Ask me about **Software Development**
-
-- 📫 How to reach me **chievlyeng@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/chiev-lyeng-664b1a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiev-lyeng" height="30" width="40" /></a>
-<a href="https://www.facebook.com/C.LYENG.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="C.LYENG.8" height="30" width="40" /></a>
+<p align="center">
+I build <b>scalable, reliable, and maintainable</b> software, with a focus on <b>backend systems</b>.<br/>
+I design <b>APIs</b> and <b>database architectures</b>, and deliver them on <b>cloud infrastructure</b>.<br/><br/>
+I enjoy solving problems, working closely with teams, and always learning something new.
 </p>
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ChievLyeng&label=Profile%20views&color=0e75b6&style=flat" alt="ChievLyeng" /></p>
+
+<p align="center">
+💬 Ask me about <b>Software Development</b><br/>
+📫 Reach me at <a href="mailto:chievlyeng@gmail.com"><b>chievlyeng@gmail.com</b></a>
+</p>
+
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/chiev-lyeng-664b1a202" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/C.LYENG.8" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages and Tools</h3>
+<div align="center">
 <table>
   <tr>
     <td><b>💻 Languages</b></td>
@@ -41,10 +53,11 @@
   </tr>
   <tr>
     <td><b>🖌️ Design &amp; ML</b></td>
-    <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>&nbsp;<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a></td>
+    <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a></td>
   </tr>
 </table>
+</div>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=ChievLyeng" alt="ChievLyeng" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=ChievLyeng" alt="ChievLyeng" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/ChievLyeng/ChievLyeng/output/metrics.svg" alt="ChievLyeng metrics" /></p>
